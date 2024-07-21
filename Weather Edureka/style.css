@@ -1,0 +1,27 @@
+body{
+    font-family:sans-serif;
+    margin:20px;
+    background-color: yellowgreen;
+}
+
+.search{
+    justify-content: center;
+    display:flex;
+    align-items: center;
+}
+#location{
+    padding: 10px;
+    border : 1px solid rgb(11, 158, 133);
+    width: 200px;
+
+}
+#search-btn{
+    padding:10px 2px;
+    background-color:yellowgreen
+}
+
+#output{
+    margin-top: 20px;
+    padding: 10px;
+    border:1px solid #ccc
+}
